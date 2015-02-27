@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="People" representedClassName="People" syncable="YES">
+        <attribute name="age" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="new" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="People2" representedClassName="People2" syncable="YES">
+        <attribute name="wad" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="People" positionX="-45" positionY="0" width="128" height="90"/>
+        <element name="People2" positionX="-45" positionY="27" width="128" height="60"/>
+    </elements>
+</model>
